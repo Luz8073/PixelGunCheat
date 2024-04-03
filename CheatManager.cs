@@ -70,8 +70,6 @@ namespace PixelGunCheat
                     itemRecord.modulesClipAmmoModifier = 99999;
                 }
             }
-
-            Camera main = Camera.main;
             if (main == null) return;
             
             // Drop TP
